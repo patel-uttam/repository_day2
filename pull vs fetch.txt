@@ -1,0 +1,11 @@
+pull :
+
+- In git pull use to update the local repository with main , so all local file replace with file of main's.
+- It good to also way use pull before use of push.
+- sometime use of pull cause the conflicts.
+- pull provides way to keep local repository sync with main one.
+
+
+Fetch : 
+- In git Fetch use to check , is there any changes in main repository in respect to local.
+- If there any changes in main repositorys files , fetch just shows changes not replace local files with main repository's files.
